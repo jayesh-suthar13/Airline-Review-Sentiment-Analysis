@@ -22,15 +22,14 @@ The project is divided into the following parts:
 
 ---
 
-## 📂 Files in This Repository
-├── 1_web_scraping_BA.ipynb        # Notebook for scraping British Airways reviews
-├── 2_data_cleaning_BA.ipynb       # Notebook for cleaning and preparing the dataset
-├── 3_EDA_BA_Reviews.ipynb         # Notebook for EDA and visualizations
-├── BA_reviews.csv                 # Raw scraped reviews data
-├── cleaned-BA-reviews.csv         # Cleaned dataset after preprocessing
-├── requirements.txt               # Python dependencies
-└── README.md                      # Project documentation
 
+## 📂 Files in This Repository
+- `BA_reviews.csv` – Collected reviews data.
+- `scraping.py` – Script for scraping reviews.
+- `cleaning.py` – Script for cleaning the dataset.
+- `eda.py` – Script for exploratory data analysis.
+- `requirements.txt` – List of Python packages required to run the project.
+- `README.md` – Project information and instructions.
 ---
 
 ## 🛠 Requirements
