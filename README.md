@@ -25,9 +25,9 @@ The project is divided into the following parts:
 
 ## 📂 Files in This Repository
 - `BA_reviews.csv` – Collected reviews data.
-- `scraping.py` – Script for scraping reviews.
-- `cleaning.py` – Script for cleaning the dataset.
-- `eda.py` – Script for exploratory data analysis.
+- `1.scraping.py` – Script for scraping reviews.
+- `2.cleaning.py` – Script for cleaning the dataset.
+- `3.review_analysis.py` – Script for exploratory data analysis.
 - `requirements.txt` – List of Python packages required to run the project.
 - `README.md` – Project information and instructions.
 ---
